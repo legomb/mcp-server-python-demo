@@ -40,7 +40,7 @@ tasks:
     desc: Run MCP server
     dir: mix_server
     cmds:
-      - uv run server.py
+      - uv run main.py
 
   # mix_server:test:
   #   desc: Test the project

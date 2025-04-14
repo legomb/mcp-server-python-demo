@@ -2,7 +2,7 @@
   "servers": {
     "mix_server": {
       "command": "uv",
-      "args": ["--directory", "mix_server", "run", "server.py"]
+      "args": ["--directory", "/workspaces/mcp-server-python-demo/mix_server", "run", "main.py"]
     }
   }
 }
